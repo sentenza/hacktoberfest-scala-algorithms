@@ -1,6 +1,11 @@
+### Learning tools
+
+---
+
 * [Scala Summer School - Learn Functional Programming in Scala](https://scalasummerschool.github.io/)
 
 ### Books
+* [Scala cookbook](https://www.amazon.com/Scala-Cookbook-Object-Oriented-Functional-Programming/dp/1449339611) (2013)(1st) Scala Cookbook: Recipes for Object-Oriented and Functional Programming
 * [Programming in Scala](https://amzn.to/2OAAgc3) (2016)(3rd) by Martin Odersky, Lex Spoon, and Bill Venners (Book)
 * [Functional Programming, Simplified](https://alvinalexander.com/scala/functional-programming-simplified-book)
 * [Functional programming in Scala (The Red Book)](https://www.manning.com/books/functional-programming-in-scala)
@@ -30,7 +35,7 @@
 * [Parallel Programming](https://www.coursera.org/learn/parprog1/). Free course by École Polytechnique Fédérale de Lausanne. Taught by Aleksandar Prokopec and Viktor Kuncak.
     * Great [written version](https://github.com/rohgar/scala-parallel-programming-3/wiki) of this course.
     
-**Safari Books Online**
+**Safari -  Books Online**
 
 * [Beginning Scala Programming](https://www.safaribooksonline.com/library/view/beginning-scala-programming/9781771374811/). By [Daniel Hinojosa](https://github.com/dhinojosa). Online course on [Safari Online Books](https://www.safaribooksonline.com/home/).
     * [Git Repository](https://resources.oreilly.com/examples/0636920043386.git) for this course.
@@ -46,14 +51,18 @@
     * [GitHub Repository](https://github.com/julian-t/EssentialScala) for this course.
 * [Scala 101](https://cognitiveclass.ai/learn/scala/#course2000). Free online course on [Cognitive Class](https://cognitiveclass.ai/).
 
-
-
+**Safari -  Learning Paths**
+* [Scala Programmer: Beginner to expert!](https://learning.oreilly.com/learning-paths/learning-path-scala/9781789616002/)
+* [Scala Fundamentals](https://learning.oreilly.com/videos/learning-path-scala/9781491970850)
+* [Scala: Master Scala Programming](https://learning.oreilly.com/learning-paths/learning-path-scala/9781789345735/)
+* [Efficient Data Analysis with Scala](https://learning.oreilly.com/learning-paths/learning-path-scala/9781788837187/)
 
 ### Get your hands dirty
 * [Scala Exercises](https://www.scala-exercises.org)
 * [S-99: Ninety-Nine Scala Problems](http://aperiodic.net/phil/scala/s-99)
 * [Scala for Project Euler](https://pavelfatin.com/scala-for-project-euler)
 * [Scala Puzzlers](http://scalapuzzlers.com/)
+* [Exercism.io](https://exercism.io/tracks/scala)
 
 
 

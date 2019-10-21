@@ -48,3 +48,4 @@
 * [CodeWars](https://codewars.com/)
 * [Coderbyte](https://www.coderbyte.com/)
 * [HireVue](https://www.hirevue.com/)
+* [Exercism](https://exercism.io/)
